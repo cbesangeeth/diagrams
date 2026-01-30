@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="Sr50oBhOAU7EkDARgkrK">
+    <mxGraphModel dx="1251" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Dev" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QA" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="STG" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="PRE_PROD" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="NFR" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="PROD" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Environments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Dev" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QA" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="STG" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq6bGyMLxMaWJQhfesqs-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Feature Branches&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="340" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
